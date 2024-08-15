@@ -13,7 +13,28 @@ Key Features:
 🎥 Smooth Animations: Subtle yet engaging animations breathe life into the onboarding process.
 💡 Intuitive Tooltips: Helpful hints and tips guide users without overwhelming them.
 🔗 Explore the Figma Prototype:
-Click Here to View My Figma Prototype
+Click Here to View My Figma PrototypeHere is the task given by the 
+PRASUNET Company 
+
+for the UI/UX INTERSHIP 
+
+This is my first_task 
+
+**TASK-01**
+
+**Interactive Onboarding Experience:**
+
+**Objective:** Design an engaging onboarding process for a mobile app.
+
+**Description:** Create a series of interactive screens that guide new users through the app's features. 
+Use animations, tooltips, and visual cues to make the onboarding process intuitive and engaging. 
+The task involves designing a few key screens and adding simple animations, 
+which can be done with basic prototyping tool Figma.
+
+![image](https://github.com/user-attachments/assets/2983fcc4-9622-493b-b9ba-9ae4a1abeed4)
+
+**figma prototype:**
+https://www.figma.com/proto/EX7XIxkWeY7zyZPai5FHDI/Prasunet-Task-1?node-id=3-5&t=iqo47QeByKHgJVzy-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=3%3A6&show-proto-sidebar=1
 
 🚀 My Approach:
 User-Centric Design: Every element is crafted to ensure that the user feels comfortable and engaged.
